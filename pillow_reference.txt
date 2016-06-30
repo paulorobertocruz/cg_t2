@@ -1,0 +1,5 @@
+
+
+Image Module
+http://effbot.org/imagingbook/image.htm
+http://effbot.org/imagingbook/introduction.htm
